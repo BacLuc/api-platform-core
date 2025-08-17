@@ -1,5 +1,6 @@
 .idea
 *.log
+/.cache
 /.php-cs-fixer.php
 /.php-cs-fixer.cache
 .phpunit.result.cache
@@ -17,4 +18,3 @@ composer.lock
 /tests/Metadata/Extractor/Adapter/*.yaml
 /vendor/
 /Dockerfile
-
